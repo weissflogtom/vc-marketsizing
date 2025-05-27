@@ -1,0 +1,58 @@
+[
+    {
+        "filename": "DL_BB_BU2025.xlsx",
+        "election": "BU - BB",
+        "state": "Brandenburg",
+        "sheetname": "Erststimme",
+        "columns": ["Wahlbezirksart", "Wahl-berechtigte insgesamt"]
+    },    
+    {
+        "filename": "DL_BB_EU2024.xlsx",
+        "election": "EU - BB",
+        "state": "Brandenburg",
+        "sheetname": "Brandenburg_Europawahl_W",
+        "columns": ["Wahlbezirksart", "Wahlberechtigte"]
+    },    
+    {
+        "filename": "DL_BB_KW2024.xlsx",
+        "election": "KTW - BB",
+        "state": "Brandenburg",
+        "sheetname": "Brandenburg_KW_W",
+        "columns": ["Wahlbezirksart", "Wahlberechtigte insgesamt"]
+    },    
+    {
+        "filename": "DL_BB_LT2024.xlsx",
+        "election": "LTW - BB",
+        "state": "Brandenburg",
+        "sheetname": "Brandenburg_Landtagswahl_W_1",
+        "columns": ["Wahlbezirk", "Wahlberechtigte insgesamt"]
+    },    
+    {
+        "filename": "DL_BE_AGHBVV2023.xlsx",
+        "election": "AGH - BE",
+        "state": "Berlin",
+        "sheetname": "AGH_W1",
+        "columns": ["Wahlbezirksart", "Wahlberechtigte insgesamt"]
+    }, 
+    {
+        "filename": "DL_BE_AGHBVV2023.xlsx",
+        "election": "BVV - BE",
+        "state": "Berlin",
+        "sheetname": "BVV",
+        "columns": ["Wahlbezirksart", "Wahlberechtigte insgesamt"]
+    },     
+    {
+        "filename": "DL_BE_BU2025.xlsx",
+        "election": "BU - BE",
+        "state": "Berlin",
+        "sheetname": "BE_W1",
+        "columns": ["Wahlbezirksart", "Wahlberechtigte insgesamt"]
+    },    
+    {
+        "filename": "DL_BE_EU2024.xlsx",
+        "election": "EU - BE",
+        "state": "Berlin",
+        "sheetname": "Berlin_Europawahl_W",
+        "columns": ["WBezArt", "Wahlberechtigte"]
+    }
+]
